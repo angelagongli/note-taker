@@ -1,0 +1,37 @@
+[
+ {
+  "title": "note &%#@",
+  "text": "note with non-word characters in the title",
+  "id": "note"
+ },
+ {
+  "title": "!@#$%",
+  "text": "note with title composed entirely of non-word characters",
+  "id": "note-2"
+ },
+ {
+  "title": "%$#@!",
+  "text": "another such note",
+  "id": "note-3"
+ },
+ {
+  "title": "Another Note",
+  "text": "Another note text",
+  "id": "AnotherNote"
+ },
+ {
+  "title": "Title with numbers 12345",
+  "text": "Numbers: 12345\nNew line",
+  "id": "Titlewithnumbers12345"
+ },
+ {
+  "title": "note",
+  "text": "5th note with note ID of the form note-#",
+  "id": "note-5"
+ },
+ {
+  "title": "note",
+  "text": "Duplicate note title is assigned an ID of the form note-#, and the # goes back to previously created and deleted notes of the same name if the index is now empty",
+  "id": "note-4"
+ }
+]
